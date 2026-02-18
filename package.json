@@ -1,0 +1,16 @@
+{
+  "name": "data-dashboard",
+  "version": "1.0.0",
+  "description": "Interactive analytics dashboard for PDF reports",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://local_proxy@127.0.0.1:26732/git/Diakov94/data-dashboard"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
