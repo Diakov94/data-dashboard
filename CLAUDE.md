@@ -12,8 +12,8 @@ No build, lint, or test tooling is configured yet. The `npm test` script is a pl
 
 ## MCP Servers
 
-Two MCP servers are configured in `.mcp.json`:
-- **context7** — library documentation lookup. Requires `CONTEXT7_API_KEY` to be set in the environment.
+Two MCP servers are configured in `.mcp.json` (project-level, safe to commit):
+- **context7** — library documentation lookup. Requires `CONTEXT7_API_KEY` env var (`export CONTEXT7_API_KEY=...`).
 - **sequential-thinking** — structured reasoning tool. No credentials required.
 
 ## Architecture
